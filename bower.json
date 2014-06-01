@@ -1,9 +1,9 @@
 {
   "name": "simple-highcharts",
-  "version": "4.0.1",
+  "version": "4.0.1a",
   "homepage": "https://github.com/provoaggie/highcharts.com",
   "authors": [
-    "Highslid Software <highslide-software>",
+    "Highslide Software <highslide-software>",
     "Jason Wright <provoaggie>"
   ],
   "description": "A simple version (for mobile consumption) of Highcharts created from the Download Builder http://www.highcharts.com/download",
